@@ -25,7 +25,7 @@ export function TransactionsTable() {
             <td>Pix</td>
             <td className="deposit">+ R$10</td>
             <td>Transferências</td>
-            <td>/10/2022</td>
+            <td>02/10/2022</td>
           </tr>
 
           <tr>
